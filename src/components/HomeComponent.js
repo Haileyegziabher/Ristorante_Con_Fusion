@@ -1,4 +1,4 @@
-import { render } from '@testing-library/react';
+// import { render } from '@testing-library/react';
 import React from 'react';
 import {Card, CardImg, CardText, CardBody, CardTitle, CardSubtitle} from 'reactstrap';
 
